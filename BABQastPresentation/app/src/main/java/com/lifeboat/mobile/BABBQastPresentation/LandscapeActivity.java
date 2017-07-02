@@ -54,6 +54,7 @@ public class LandscapeActivity extends FragmentActivity {
     private TouchView bottomTV;
 
     private String REMOTE_DISPLAY_APP_ID = "ab3def78"; //insert own ChromeCast dev ID
+    private String REMOTE_DISPLAY_APP_ID = "12345678"; //insert own ChromeCast dev ID
 
     private static final String STATUS_READY = "com.lifeboat.mobile.BABBQastPresentation.ready";
     private static final String STATUS_UPDATE = "com.lifeboat.mobile.BABBQastPresentation.gatherupdates";
